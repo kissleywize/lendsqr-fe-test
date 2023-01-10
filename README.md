@@ -16,7 +16,7 @@ For development, you will only need Node.js installed on your environement.
 
 ## Install
 
-    $ git clone https://github.com/Chizycodes/lendsqr-fe-test.git
+    $ git clone https://github.com/kissleywize/lendsqr-fe-test.git
     $ cd lendsqr-fe-test
     $ npm install
 
